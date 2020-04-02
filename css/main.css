@@ -77,18 +77,18 @@ aside {
   margin-bottom: 30px;
 }
 
-aside .avader {
+aside .bomber {
   text-align: center;
   position: absolute;
   top: -110px;
   width: 100%;
 }
 
-aside .avader > img {
-  width: 220px;
-  height: 220px;
+aside .bomber > img {
+  width: 160px;
+  height: 200px;
   border-radius: 50%;
-  background: cornflowerblue;
+  /*background: cornflowerblue;*/
 }
 
 aside section {
@@ -97,7 +97,7 @@ aside section {
 }
 
 aside section:not(:last-of-type) {
-  border-bottom: 1.5px solid #ccc;
+  border-bottom: 2px solid #ccc;
 }
 
 aside section .button{
@@ -157,7 +157,7 @@ section .item {
 
 .skills .item i {
   display: block;
-  width: 20px;
+  /*width: 20px;*/
   height: 4px;
   background-color: #000;
 }
@@ -165,7 +165,7 @@ section .item {
 .contact .item {
   display: flex;
   align-items: center;
-  padding: 2.5px 0;
+  padding: 3px 0;
 }
 
 .contact .item span {
@@ -204,14 +204,14 @@ main section:last-of-type {
   margin: 30px 25px 30px 30px;
 }
 
-main .flex {
-  display: flex;
-  margin-bottom: 5px;
-}
+/*main .flex {*/
+/*  display: flex;*/
+/*  margin-bottom: 5px;*/
+/*}*/
 
-main .flex h3 {
-  flex: auto;
-}
+/*main .flex h3 {*/
+/*  flex: auto;*/
+/*}*/
 
 main section p {
   padding-bottom: 3px;
@@ -229,8 +229,8 @@ main section .item h3 {
 main section .item img {
   margin-top: 5px;
   width: 100%;
-  border: 1px solid #ddd;
-  border-style: dashed;
+  border: 1px dashed #ddd;
+  /*border-style: dashed;*/
   border-radius: 5px;
 }
 
