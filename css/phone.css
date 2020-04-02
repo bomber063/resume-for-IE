@@ -55,6 +55,20 @@ header .resume-link {
     display: none;
 }
 
+header .resume-download .button{
+    border-radius: 7px;
+    background:#999;
+    text-align: center;
+    width: 160px;
+    font-size: 20px;
+    margin: 0px auto 12px;
+    display: block;
+    color: #222831;
+    text-decoration: none;
+    box-shadow: 0px 0px 2px 1px #95e1d3;
+    font-family: "myFont",arial, Gadget, sans-serif;
+}
+
 header>h1 {
     color: #fff;
 }

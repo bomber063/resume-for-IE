@@ -57,6 +57,20 @@ header .resume-link {
   display: none;
 }
 
+header .resume-download .button{
+  border-radius: 7px;
+  background:#999;
+  text-align: center;
+  width: 160px;
+  font-size: 20px;
+  margin: 0px auto 12px;
+  display: block;
+  color: #222831;
+  text-decoration: none;
+  box-shadow: 0px 0px 2px 1px #95e1d3;
+  font-family: "myFont",arial, Gadget, sans-serif;
+}
+
 header > h1 {
   color: #fff;
 }
@@ -98,25 +112,6 @@ aside section {
 
 aside section:not(:last-of-type) {
   border-bottom: 2px solid #ccc;
-}
-
-aside section .button{
-  border-radius: 1rem;
-  background:#95e1d3;
-  text-align: center;
-  width: 8rem;
-  font-weight: bold;
-  /*font-size: 2rem;*/
-  padding: 1.5rem 0px;
-  margin: 2rem auto;
-  display: block;/*这里也可以设置成inline-block使用内联元素的居中布置，方方老师的就是设置成incline-block，但是需要在父元素加上text-align:center;*/
-  color: #222831;
-  text-decoration: none;
-  transition: box-shadow 0.3s;
-  box-shadow: 0px 0px 2px 1px #95e1d3;
-  font-size: 1.2rem;
-  font-family: "myFont",arial, Gadget, sans-serif;
-  /*跟在button:hover里面直接写transition-duration: 0.3s效果一样*/
 }
 
 section h2 {

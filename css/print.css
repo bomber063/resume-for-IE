@@ -15,6 +15,6 @@ header .resume-link {
     display: block;
 }
 
-main .item img {
+main .item img,.resume-download {
     display: none;
 }
