@@ -18,3 +18,7 @@ header .resume-link {
 main .item img,.resume-download {
     display: none;
 }
+
+main section:last-of-type {
+    margin: 30px 25px 20px 30px;
+}
