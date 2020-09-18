@@ -20,5 +20,5 @@ main .item img,.resume-download {
 }
 
 main section:last-of-type {
-    margin: 30px 25px 20px 30px;
+    margin: 30px 0px 20px 30px;
 }

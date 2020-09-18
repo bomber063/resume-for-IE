@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a2f08c1-cd33-4bc4-a950-331ba82b4278" name="Default Changelist" comment="" />
+    <list default="true" id="1a2f08c1-cd33-4bc4-a950-331ba82b4278" name="Default Changelist" comment="增加简历下载按钮">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1040">
-              <caret line="169" column="28" selection-start-line="169" selection-start-column="28" selection-end-line="169" selection-end-column="28" />
+            <state relative-caret-position="448">
+              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#i#0;n#p#1;n#div#0;n#div#0;n#section#1;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#p#1;n#div#1;n#div#0;n#section#1;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -30,18 +32,49 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/phoneBig.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1056">
+              <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+            <state relative-caret-position="3152">
+              <caret line="197" selection-start-line="197" selection-end-line="199" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/phone.css">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="848">
+              <caret line="53" column="11" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/print.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -58,6 +91,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>UI 组件库</find>
@@ -65,6 +105,17 @@
       <find>img</find>
       <find>item</find>
       <find>了解更多</find>
+      <find>avader</find>
+      <find>fl</find>
+      <find>colu</find>
+      <find>width</find>
+      <find>flex</find>
+      <find>.flex</find>
+      <find>flex:</find>
+      <find>pdf</find>
+      <find>s</find>
+      <find>section</find>
+      <find>了解</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -75,16 +126,20 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$USER_HOME$/.npmrc" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/phoneBig.css" />
+        <option value="$PROJECT_DIR$/css/phone.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/css/print.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-273" />
-    <option name="y" value="147" />
+    <option name="x" value="843" />
+    <option name="y" value="27" />
     <option name="width" value="1095" />
-    <option name="height" value="720" />
+    <option name="height" value="978" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -107,6 +162,11 @@
               <item name="personel resume for IE" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="personel resume for IE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personel resume for IE" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -125,7 +185,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -165,7 +227,16 @@
       <workItem from="1585660083112" duration="65000" />
       <workItem from="1585660313838" duration="653000" />
       <workItem from="1585661279151" duration="40000" />
-      <workItem from="1585661347299" duration="5316000" />
+      <workItem from="1585661347299" duration="5595000" />
+      <workItem from="1585759807134" duration="1302000" />
+      <workItem from="1585810371072" duration="19572000" />
+      <workItem from="1585924594497" duration="599000" />
+      <workItem from="1588172543216" duration="2005000" />
+      <workItem from="1588174829581" duration="648000" />
+      <workItem from="1588253650652" duration="1367000" />
+      <workItem from="1588256491863" duration="727000" />
+      <workItem from="1588946084814" duration="1512000" />
+      <workItem from="1592480570821" duration="67000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1585661375483</created>
@@ -174,11 +245,81 @@
       <option name="project" value="LOCAL" />
       <updated>1585661375483</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改部分移动端适配样式，HTML格式。">
+      <created>1585838277389</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585838277389</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加简历下载按钮">
+      <created>1585839687502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585839687503</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加pdf简历，修改部分描述">
+      <created>1588173941923</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588173941923</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改简历格式">
+      <created>1588174876132</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588174876132</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改部分描述">
+      <created>1588254887595</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588254887595</updated>
+    </task>
+    <task id="LOCAL-00007" summary="修改个人经历描述">
+      <created>1588256682180</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588256682181</updated>
+    </task>
+    <task id="LOCAL-00008" summary="增加个人博客图标及链接">
+      <created>1588946714357</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588946714358</updated>
+    </task>
+    <task id="LOCAL-00009" summary="增加个人博客链接可下载的简历">
+      <created>1588946920288</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588946920288</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改下载简历的路径">
+      <created>1588947367657</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588947367657</updated>
+    </task>
+    <task id="LOCAL-00011" summary="增加共享博客平台项目介绍">
+      <created>1592480630316</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592480630316</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15007000" />
+    <option name="totallyTimeSpent" value="43085000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -190,9 +331,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973357" visible="true" weight="0.1938046" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973357" visible="true" weight="0.37887213" />
       <window_info id="Structure" order="1" sideWeight="0.5026643" side_tool="true" weight="0.18506752" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -256,25 +396,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <MESSAGE value="修改部分移动端适配样式，HTML格式。" />
+    <MESSAGE value="增加简历下载按钮" />
+    <MESSAGE value="增加pdf简历，修改部分描述" />
+    <MESSAGE value="修改简历格式" />
+    <MESSAGE value="修改部分描述" />
+    <MESSAGE value="修改个人经历描述" />
+    <MESSAGE value="增加个人博客图标及链接" />
+    <MESSAGE value="增加个人博客链接可下载的简历" />
+    <MESSAGE value="修改下载简历的路径" />
+    <MESSAGE value="增加共享博客平台项目介绍" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加共享博客平台项目介绍" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/print.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/phone.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="32">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.npmrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -284,8 +418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="169" column="28" selection-start-line="169" selection-start-column="28" selection-end-line="169" selection-end-column="28" />
+        <state relative-caret-position="448">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#i#0;n#p#1;n#div#0;n#div#0;n#section#1;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#p#1;n#div#1;n#div#0;n#section#1;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -297,10 +431,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/phoneBig.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+        <state relative-caret-position="3152">
+          <caret line="197" selection-start-line="197" selection-end-line="199" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/phone.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="848">
+          <caret line="53" column="11" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="32">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
